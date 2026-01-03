@@ -43,6 +43,7 @@ export default function Header() {
             <Link to="/about" className="text-gray-700 hover:text-teal-700 font-medium transition-colors">من نحن</Link>
             <Link to="/projects" className="text-gray-700 hover:text-teal-700 font-medium transition-colors">مشاريعنا</Link>
             <Link to="/president" className="text-gray-700 hover:text-teal-700 font-medium transition-colors">كلمة الرئيس</Link>
+            <Link to="/news" className="text-gray-700 hover:text-teal-700 font-medium transition-colors">الأخبار</Link>
             <Link to="/contact" className="text-gray-700 hover:text-teal-700 font-medium transition-colors">اتصل بنا</Link>
           </nav>
 
